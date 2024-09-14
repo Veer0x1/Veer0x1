@@ -1,6 +1,6 @@
 <!-- Table layout for side-by-side images -->
 <p align="center">
-  <table>
+  <table border="0">
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=veer0x1&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Languages" />
