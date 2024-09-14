@@ -1,13 +1,7 @@
-<!-- Table layout for side-by-side images -->
+<!-- Use div to align images side by side with same height -->
 <p align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=veer0x1&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Languages" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Veer0x1&show_icons=true&theme=transparent" alt="GitHub Stats" />
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=veer0x1&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Languages" style="height: 200px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Veer0x1&show_icons=true&theme=transparent" alt="GitHub Stats" style="height: 200px;" />
+  </div>
 </p>
